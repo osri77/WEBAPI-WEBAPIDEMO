@@ -85,6 +85,5 @@ C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
 C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
-C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
 C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
 C:\Temp\WEBAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
